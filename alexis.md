@@ -51,7 +51,7 @@ image: Alexis.jpg
 
 # Change this to True when you do you pull request.
 
-public: False
+public: True
 
 
 
